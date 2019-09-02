@@ -236,3 +236,7 @@ function moveDown() {
   }
   pasteNewCell();
 }
+
+function upgrade() {
+]
+
